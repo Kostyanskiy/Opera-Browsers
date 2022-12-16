@@ -1,0 +1,11 @@
+Opera Browsers for PC and Android Collection on Github:
+
+Opera - Default Opera
+Opera Yandex - Default Opera with Yandex Search
+Opera Developer and Beta, Beta for PC and Android
+Opera Neon - Concept Opera Browser
+Opera GX - Opera for Gamers, for PC and Android
+Opera Crypto - Opera with crypto functions and design from Opera GX, for PC and Android
+Opera Mini and Mini Beta - Fast Opera browser for Android
+Opera Touch - Beautiful Opera browser, similar to Opera Neon
+Opera Classic - Old Opera for Android
